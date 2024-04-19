@@ -1,0 +1,29 @@
+
+K
+java:S1604Û"(Make this anonymous inner class a lambda(„¬é¿øÿÿÿÿ8Çö“¼Ä1
+E
+java:S5411?"(Use a primitive boolean expression here.(™ºÆ‘8Êö“¼Ä1
+E
+java:S5411["(Use a primitive boolean expression here.(¾½ò8Êö“¼Ä1
+K
+java:S5411æ"(Use a primitive boolean expression here.(šÈĞùüÿÿÿÿ8Ëö“¼Ä1
+;
+java:S2119Ì"Save and re-use this "Random".(¼İÅf8îú“¼Ä1
+I
+java:S1172Ğ",Remove this unused method parameter "email".(Šƒ‡*8ñú“¼Ä1
+\
+java:S1874ú">Remove this use of "startActivityForResult"; it is deprecated.(ØãÂà8üú“¼Ä1
+g
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8ˆû“¼Ä1
+Y	java:S125»"<This block of commented-out lines of code should be removed.(ÄîÌ¡8“û“¼Ä1
+N
+java:S1172Ó"+Remove this unused method parameter "view".(ÁŞ›Èùÿÿÿÿ8˜û“¼Ä1
+^	java:S125"<This block of commented-out lines of code should be removed.(ı³Ğ˜şÿÿÿÿ8¦û“¼Ä1
+V
+java:S10688"9Remove this unused "isSignInButtonBlocked" private field.(æ“ÑÖ8§û“¼Ä1
+[
+java:S1144¥"8Remove this unused private "disableSignInButton" method.(àÜ ìşÿÿÿÿ8¨û“¼Ä1
+Z
+java:S1144«"7Remove this unused private "enableSignInButton" method.(òª¥‚úÿÿÿÿ8¨û“¼Ä1
+]
+java:S1144ë":Remove this unused private "checkVerificationCode" method.(“Ïîèşÿÿÿÿ8¨û“¼Ä1

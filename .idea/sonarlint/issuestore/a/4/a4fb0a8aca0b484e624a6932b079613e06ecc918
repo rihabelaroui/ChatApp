@@ -1,0 +1,23 @@
+
+K
+java:S5411›"(Use a primitive boolean expression here.(ÍßÅ‚şÿÿÿÿ8—ëÍ´Ä1
+K
+java:S5411í"(Use a primitive boolean expression here.(µúÒ«şÿÿÿÿ8¸ëê»Ä1
+>
+java:S5542f"Use a secure padding scheme.(÷Èİÿøÿÿÿÿ8¶îê»Ä1
+;
+java:S5542r"Use a secure cipher mode.(Ü øùÿÿÿÿ8¸îê»Ä1
+N
+java:S1172´"+Remove this unused method parameter "body".( Æ³‡şÿÿÿÿ8åìÍ´Ä1
+_
+java:S1874±"<Remove this use of "getSerializableExtra"; it is deprecated.(—Çƒ¼ÿÿÿÿÿ8ôìÍ´Ä1
+a
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(íèÙ¸øÿÿÿÿ8øìÍ´Ä1
+\
+java:S1155ã">Use isEmpty() to check whether the collection is empty or not.(øÙŠ³8ùìÍ´Ä1
+X
+java:S1161é":Add the "@Override" annotation above this method signature(Ù«µ§8úìÍ´Ä1
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8üîê»Ä1
+@
+java:S1128/"Remove this duplicated import.(¹«è•üÿÿÿÿ8üîê»Ä1

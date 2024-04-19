@@ -1,0 +1,11 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(´Ä†™şÿÿÿÿ8Ôã›¦Ä1
+W
+java:S1874":Remove this use of "FingerprintManager"; it is deprecated.(›¤Î¹8×ã›¦Ä1
+W
+java:S1874":Remove this use of "FingerprintManager"; it is deprecated.(›¤Î¹8Øã›¦Ä1
+\
+java:S1874":Remove this use of "isHardwareDetected"; it is deprecated.(Ü±©…şÿÿÿÿ8Ùã›¦Ä1
+O
+java:S1128"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ8Úã›¦Ä1
